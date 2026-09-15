@@ -44,12 +44,12 @@
   </section>
   <section class="h-[10vh] w-screen flex items-center justify-center bg-slate-900">
     <div class=" text-center">
-      <p class="text-gray-700 text-sm">Developed by</p>
+      <p class="text-gray-400 text-sm">Developed by</p>
       <a
         href="https://github.com/fatintawsifhoque"
         target="_blank"
         rel="noopener noreferrer"
-        class="text-lg font-bold text-violet-600 hover:text-black transition"
+        class="text-lg font-bold text-violet-400 hover:text-violet-300 transition"
       >
         Fatin Tawsif Hoque
       </a>
