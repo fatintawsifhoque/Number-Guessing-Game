@@ -8,7 +8,6 @@ function App() {
   const [guessed, setGuessed] = useState([])
   const [isWon, setIsWon] = useState(false)
 
- 
   const handleGuess = () => {
     const number = Number(gn) 
 
@@ -44,7 +43,6 @@ function App() {
       <section className="h-[90vh] w-screen gb flex flex-col items-center justify-center">
         <h1 className="text-white font-bold text-2xl mb-10">Number Guessing Game (1-100)</h1>
         
-  
         <label htmlFor="input" className="text-white text-lg font-semibold">
           Input Your Guessed Number:
         </label>
@@ -68,7 +66,6 @@ function App() {
           Guess
         </button>
 
-         
         {isWon && (
           <button 
             onClick={resetGame} 
