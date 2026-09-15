@@ -42,7 +42,7 @@
       </div>
     </div>
   </section>
-  <section class="h-[10vh] w-screen">
+  <section class="h-[10vh] gb w-screen">
     <div class=" text-center">
       <p class="text-gray-700 text-sm">Developed by</p>
       <a
